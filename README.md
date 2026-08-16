@@ -1,38 +1,98 @@
 <h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
-<h3 align="center">A Full-Stack Developer specializing in building scalable backend applications with Spring Boot and creating responsive, user-friendly frontends with Angular</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupes25" alt="rupes25" /></a> </p>
+<h3 align="center">
+  Full-Stack Developer | Java • Spring Boot • Angular
+</h3>
 
-- 🔭 I’m currently working on [BookMyStay](https://github.com/rupes25/BookMyStay)
-
-- 🌱 I’m currently learning **Spring Boot, Angular, PostgreSQL, REST APIs, Docker**
-
-- 👯 I’m looking to collaborate on [Full Stack Web Applications](#)
-
-- 🤝 I’m looking for help with [System Design & Advanced Spring Boot](#)
-
-- 👨‍💻 All of my projects are available at [https://github.com/rupes25](https://github.com/rupes25)
-
-- 💬 Ask me about **Java, Spring Boot, Angular, REST APIs & Full Stack Development**
-
-- 📫 How to reach me **rupesh47800@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
-
-- ⚡ Fun fact **I enjoy building real-world applications and learning new technologies.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rupesh-kumar-ab639424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupesh-kumar-ab639424a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rupesh_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh_47" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rupesh2oe9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rupesh2oe9" height="30" width="40" /></a>
+<p align="center">
+  I build scalable backend applications with Spring Boot and responsive,
+  user-friendly frontend applications with Angular.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/rupes25">
+    <img src="https://komarev.com/ghpvc/?username=rupes25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/rupes25?tab=followers">
+    <img src="https://img.shields.io/github/followers/rupes25?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupes25&show_icons=true&locale=en&layout=compact" alt="rupes25" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupes25&show_icons=true&locale=en" alt="rupes25" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupes25&" alt="rupes25" /></p>
+- 🔭 Currently building **[BookMyStay](https://github.com/rupes25/BookMyStay)** — an end-to-end hotel booking platform
+- 🌱 Currently learning **Spring Boot, Angular, PostgreSQL, REST APIs & Docker**
+- 💻 Interested in **Backend & Full-Stack Development**
+- 🧠 Currently improving my knowledge of **System Design & Advanced Spring Boot**
+- 📂 All my projects are available on **[GitHub](https://github.com/rupes25)**
+- 📫 Reach me at **rupesh47800@gmail.com**
+
+---
+
+### 🚀 Featured Project
+
+### 🏨 BookMyStay
+
+An end-to-end hotel booking platform built with **Angular, Spring Boot and PostgreSQL**.
+
+- Angular for the responsive frontend
+- Spring Boot for REST APIs and business logic
+- PostgreSQL for database management
+- Layered architecture with Controller, Service, Repository & DTOs
+- Complete frontend-to-backend integration
+
+🔗 **[View Project →](https://github.com/rupes25/BookMyStay)**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
+</p>
+
+#### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,postman" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/rupesh-kumar-ab639424a">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://leetcode.com/rupesh_47">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/rupesh2oe9">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" width="40" />
+  </a>
+</p>
+
+📧 **Email:** rupesh47800@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupes25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupes25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
